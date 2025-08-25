@@ -65,10 +65,10 @@ const config = {
   ],
 
   scripts: [
-    {
-      src: "/eightbit-saurus/js/guardian.js",
-      async: false,
-    },
+    // {
+    //   src: "/eightbit-saurus/js/guardian.js",
+    //   async: false,
+    // },
   ],
 
   markdown: {
