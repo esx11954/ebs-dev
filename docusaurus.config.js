@@ -8,7 +8,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Eightbit Saurus",
+  title: "Eightbit Saurus_dev",
   tagline: "Dinosaurs are cool",
   favicon: "img/eb_logo_5.svg",
 
@@ -88,7 +88,7 @@ const config = {
     ({
       // Replace with your project's social card
       // image: 'img/eightbit_saurus.png',
-      image: "img/eb_saurus2.png",
+      image: "img/eb_saurus_dev.png",
       colorMode: {
         defaultMode: "light",
         disableSwitch: false,
@@ -125,12 +125,12 @@ const config = {
           //   position: 'left',
           //   label: 'JavaScript',
           // },
-          {
-            type: "docSidebar",
-            sidebarId: "foundationSidebar",
-            position: "left",
-            label: "基礎研修",
-          },
+          // {
+          //   type: "docSidebar",
+          //   sidebarId: "foundationSidebar",
+          //   position: "left",
+          //   label: "基礎研修",
+          // },
           {
             type: "docSidebar",
             sidebarId: "awsSidebar",
